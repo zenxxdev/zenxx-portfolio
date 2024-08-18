@@ -20,8 +20,8 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>Lourity - Projeler</title>
-        <meta name="description" content="Lourity'nin geliştirdiği projeleri inceleyin. Web geliştirme, Discord botları ve daha fazlası." />
+        <title>Zenxx - Projeler</title>
+        <meta name="description" content="Zenxx'nin geliştirdiği projeleri inceleyin. Web geliştirme, Discord botları ve daha fazlası." />
         <meta property="og:image" content="/logo.png" />
         <meta name="theme-color" content="#0ea5e9" />
       </Helmet>
