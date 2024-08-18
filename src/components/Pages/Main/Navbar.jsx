@@ -25,13 +25,13 @@ const Navbar = () => {
                     <a rel='nofollow' onClick={() => navigate('/about')} className='cursor-pointer duration-300 font-medium rounded-2xl px-3 py-1 hover:text-sky-300'>Hakkımda</a>
                 </div>
                 <div className='flex gap-4'>
-                    <a rel='nofollow' href='https://discord.com/users/1123906177923813396' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://discord.com/users/1229449667230830613' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-discord"></i>
                     </a>
-                    <a rel='nofollow' href='https://github.com/lourityy' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://github.com/zenxxdev' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-github"></i>
                     </a>
-                    <a rel='nofollow' href='https://www.youtube.com/@lourityy' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://www.youtube.com/@zenxxdev' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-youtube"></i>
                     </a>
                 </div>
